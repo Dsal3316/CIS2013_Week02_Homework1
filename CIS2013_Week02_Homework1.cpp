@@ -11,13 +11,13 @@ int main()
 		while (keep_running)
 		{
 		
-			cout << "Enter your first number";
+			cout << "Enter your first number" << endl;
 			cin >> num1;
 		
-			cout << "Enter you second number";
+			cout << "Enter you second number" << endl;
 			cin >> num2;
 		
-			cout << "Enter your operation";
+			cout << "Enter your operation" << endl;
 			cin >> opr;
 		
 				if (opr == '+')
